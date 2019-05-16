@@ -1,0 +1,3 @@
+1 DienThoai 10000
+2 LapTop 20000
+3 Tivi 30000
